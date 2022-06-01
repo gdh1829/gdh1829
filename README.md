@@ -1,27 +1,26 @@
 ## Hi, there!
 
-I'm Daehyeop Ko, backend engineer.  
+I'm Daehyeop Ko, a backend engineer.  
 Mainly developes MSA Architecture RESTful API Backend Servers using Spring Boot Kotlin.  
 Improves AWS Architecture to perform better and save costs.  
-Sometimes build data pipelines to extract data using Apache Airflow.  
-Had been working at Porters Corporation(['HR Business Cloud'](https://hrbc.porters.jp/), HR Data Management Cloud B2B Service) in Tokyo Japan before,  
-and now working at Macarong Factory(['Mycle'](https://mycle.co.kr/), Vehicle Management Mobile App B2C Service) in Pangyo South Korea.  
+Sometimes build data pipelines to extract data using Apache Airflow.
 
-## Skill Set
-- Language
+## Careers
+2020.05 ~ Current [Macarong Factory](https://mycle.co.kr/), Pangyo, South Korea
+ - ['Mycle'](https://mycle.co.kr/), Vehicle Management Mobile App Service  
+ - Backend Team
+
+2017.10 ~ 2020.04 [Porters Corporation](https://www.porters.jp/), Tokyo, Japan
+ - ['HR Business Cloud(HRBC)'](https://hrbc.porters.jp/), HR B2B CRM Cloud Service  
+ - HRBC SRE Team
+
+## Skills
   - Kotlin, Java, Python
-
-- Framework & Library
-  - Spring Boot, 
-  - Spring Data Jpa, Hibernate, QueryDSL
-  - Spring Cloud Nexflix
+  - Spring Boot, Spring Data
   - Apache Airflow
+  - RDBS(MySQL)
+  - AWS Solutions Architect
 
-- Test
-  - Junit5, Mockito, Jacoco
-
-- Infra
-  - MySQL
-  - Docker
-  - Amazone Web Service 
-  - Jenkins 
+## Links
+- [LinkedIn](https://www.linkedin.com/in/daehyeop-ko-robin)
+- [HackerRank](https://www.hackerrank.com/daehyeop_ko)
